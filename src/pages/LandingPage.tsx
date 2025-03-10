@@ -14,7 +14,7 @@ function LandingPage() {
       {/* Hero Section */}
       <div className="container mx-auto px-4 py-16">
         <div className="text-center">
-          <h1 className="text-6xl font-bold mb-6">SemGuide</h1>
+          <h1 className="text-6xl font-bold mb-6">Learn Link</h1>
           <p className="text-xl mb-8">
             Your one-stop destination for all semester study materials
           </p>
@@ -31,7 +31,7 @@ function LandingPage() {
       <div className="bg-white py-16">
         <div className="container mx-auto px-4">
           <h2 className="text-3xl font-bold text-center mb-12">
-            Why Choose SemGuide?
+            Why Choose Learn Link?
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
             <FeatureCard
