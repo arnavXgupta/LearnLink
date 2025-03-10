@@ -1,7 +1,7 @@
 import express from 'express';
 import cors from 'cors';
 import dotenv from 'dotenv';
-import { subjectsRouter } from './server/routes/subjects.js';
+import { subjectsRouter } from './routes/subjects.js';
 import { pdfsRouter } from './routes/pdfs.js';
 
 dotenv.config();

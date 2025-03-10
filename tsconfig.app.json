@@ -20,5 +20,5 @@
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true
   },
-  "include": ["src", "routes", "index.js", "controllers"]
+  "include": ["src", "server/routes", "indexserver/controllersrollers"]
 }
